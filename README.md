@@ -15,8 +15,8 @@ These are my public stats:
 - 🌱 I’m currently learning Bachelor of Computer Application in the specialization Cloud Technology 
   <!--
 <br>
-<br>
-<br>
+</br>
+
 
 # 💻 Tech Stack:
 
