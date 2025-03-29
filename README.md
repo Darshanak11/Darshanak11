@@ -12,10 +12,8 @@ These are my public stats:
 <!--
 - 👋 Hi, I’m @Darshana11
 - 👀 I’m interested in ... -->
-- 🌱 I’m currently learning Bachelor of Computer Application in the specialization Cloud Technology 
-  <!--
+- 🌱 I’m currently learning Bachelor of Computer Application in the specialization Cloud Technology <br>
 <br>
-</br>
 
 
 # 💻 Tech Stack:
