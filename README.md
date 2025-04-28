@@ -44,7 +44,7 @@ These are my public stats:
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="49" alt="python logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=md" height="49" alt="markdown logo"  />
+  <!--<img src="https://skillicons.dev/icons?i=md" height="49" alt="markdown logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=go" height="49" alt="go logo"  />
   <img width="12" />
@@ -54,50 +54,50 @@ These are my public stats:
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="49" alt="css3 logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=r" height="49" alt="r logo"  />
+  <!--<img src="https://skillicons.dev/icons?i=r" height="49" alt="r logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=linux" height="49" alt="linux logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="49" alt="jupyter logo"  >
-  <img width="12" />
+  <img width="12" /> -->
   <img src="https://skillicons.dev/icons?i=gcp" height="49" alt="googlecloud logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="49" alt="azure logo"  />
-  <img width="12" />
+  <!--<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="49" alt="azure logo"  />
+  <img width="12" /> -->
   <a href="https://www.linkedin.com/in/Darshana-k-687775349">
   <img src="https://skillicons.dev/icons?i=linkedin" height="49" alt="linkedin logo" ></a>
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=vscode" height="49" alt="vscode logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="49" alt="pycharm logo"  />
+  <!--<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="49" alt="pycharm logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="49" alt="numpy logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="49" alt="docker logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="49" alt="anaconda logo"  />
-  <img width="12" />
+  <img width="12" /> -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="49" alt="canva logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=stackoverflow" height="49" alt="stackoverflow logo"  />
-  <img width="12" />
+  <!--<img src="https://skillicons.dev/icons?i=stackoverflow" height="49" alt="stackoverflow logo"  />
+  <img width="12" /> -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="49" alt="git logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/putty/putty-original.svg" height="49" alt="putty logo"  />
+  <!--<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/putty/putty-original.svg" height="49" alt="putty logo"  /> -->
 </div>
-<!--
+
 <div align="left">
   <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vercel" height="40" alt="vercel logo"  />
+  <!--<img src="https://skillicons.dev/icons?i=vercel" height="40" alt="vercel logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-original.svg" height="40" alt="gimp logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=bash" height="40" alt="bash logo"  />
-  <img width="12" />
+  <img width="12" /> -->
   <img src="https://skillicons.dev/icons?i=eclipse" height="40" alt="eclipseide logo"  />
 </div>
--->
+
 <br />
 
 ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) 
