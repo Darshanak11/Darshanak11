@@ -86,7 +86,7 @@ These are my public stats:
   <!--<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/putty/putty-original.svg" height="49" alt="putty logo"  /> -->
 </div>
 
-<div align="left">
+<div align="center">
   <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
   <img width="12" />
   <!--<img src="https://skillicons.dev/icons?i=vercel" height="40" alt="vercel logo"  />
