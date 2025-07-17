@@ -8,7 +8,6 @@
 - 🔭 I’m currently working on **911 ES Significant Calculator Web App**  
 - 🌱 I’m learning **C#, Java, JavaScript, and Web Development**  
 - 💬 Ask me about **HTML, CSS, JavaScript, Python, Java, and C#**  
-- 📫 Reach me at: **your_email@example.com**  
 - ⚡ Fun fact: I enjoy designing UIs that look and feel real!
 
 ---
