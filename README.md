@@ -2,7 +2,7 @@
 <h3 align="center">🚀 Aspiring Developer | Passionate Coder | Tech Explorer</h3>
 
 <p align="center">
-  <img src="https://media.tenor.com/OtNfj7kWlIgAAAAd/penguin-coding.gif" width="300" alt="Penguin Coding GIF" />
+  <img src="https://media.giphy.com/media/3o7TKxohQBBT4Ntlqo/giphy.gif" width="200" />
 </p>
 
 ---
@@ -20,7 +20,7 @@
 ### 🚀 Tech Stack
 
 <p align="center">
-  <img src="https://media.tenor.com/OtNfj7kWlIgAAAAd/penguin-coding.gif" width="300" alt="Penguin Coding GIF" />
+  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="70" />
 </p>
 
 <p align="center">
@@ -37,11 +37,11 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=darshana11&show_icons=true&theme=radical&include_all_commits=true" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=darshanak&show_icons=true&theme=radical" alt="GitHub Stats"/>
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=darshana11&theme=radical" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=darshanak&theme=radical" alt="GitHub Streak"/>
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=darshana11&layout=compact&theme=radical&langs_count=6" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=darshanak&layout=compact&theme=radical" alt="Top Languages"/>
 </p>
 
 ---
@@ -50,22 +50,13 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/your-linkedin" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="40" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" />
   </a>
   <a href="mailto:your_email@example.com">
-    <img src="https://cdn-icons-png.flaticon.com/512/281/281769.png" width="40" alt="Gmail" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge" />
   </a>
   <a href="https://instagram.com/your_instagram" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/174/174855.png" width="40" alt="Instagram" />
-  </a>
-  <a href="https://code.visualstudio.com/" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/906/906324.png" width="40" alt="VS Code" />
-  </a>
-  <a href="https://visualstudio.microsoft.com/vs/preview/" target="_blank">
-    <img src="https://visualstudio.microsoft.com/wp-content/uploads/2021/10/Product-Icon.svg" width="40" alt="VS 2022 Preview" />
-  </a>
-  <a href="https://github.com/darshana11" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/733/733553.png" width="40" alt="GitHub" />
+    <img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge" />
   </a>
 </p>
 
@@ -74,5 +65,5 @@
 ### ✨ Fun Zone
 
 <p align="center">
-  <img src="https://media.tenor.com/OtNfj7kWlIgAAAAd/penguin-coding.gif" width="300" alt="Penguin Coding GIF" />
+  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="300" />
 </p>
