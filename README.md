@@ -37,11 +37,11 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=darshanak&show_icons=true&theme=radical" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=darshana11&show_icons=true&theme=radical&include_all_commits=true" alt="GitHub Stats"/>
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=darshanak&theme=radical" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=darshana11&theme=radical" alt="GitHub Streak"/>
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=darshanak&layout=compact&theme=radical" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=darshana11&layout=compact&theme=radical&langs_count=6" alt="Top Languages"/>
 </p>
 
 ---
@@ -64,7 +64,7 @@
   <a href="https://visualstudio.microsoft.com/vs/preview/" target="_blank">
     <img src="https://visualstudio.microsoft.com/wp-content/uploads/2021/10/Product-Icon.svg" width="40" alt="VS 2022 Preview" />
   </a>
-  <a href="https://github.com/darshanak" target="_blank">
+  <a href="https://github.com/darshana11" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/733/733553.png" width="40" alt="GitHub" />
   </a>
 </p>
