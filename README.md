@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Darshana K</h1>
 <h3 align="center">🚀 Aspiring Developer | Passionate Coder | Tech Explorer</h3>
 
-<p align="center">
- <div class="tenor-gif-embed" data-postid="14561996707246089000" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/ai-grok-artificial-intelligence-computer-tech-gif-14561996707246089000">Ai Grok Sticker</a>from <a href="https://tenor.com/search/ai-stickers">Ai Stickers</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
-</p>
-
 ---
 
 ### 🌟 About Me
