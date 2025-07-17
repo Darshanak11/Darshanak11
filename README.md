@@ -15,7 +15,7 @@
 ### 🚀 Tech Stack
 
 <p align="center">
-  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="70" />
+  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="100" />
 </p>
 
 <p align="center">
