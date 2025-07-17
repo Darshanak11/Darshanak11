@@ -2,7 +2,7 @@
 <h3 align="center">🚀 Aspiring Developer | Passionate Coder | Tech Explorer</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7TKxohQBBT4Ntlqo/giphy.gif" width="200" />
+ <div class="tenor-gif-embed" data-postid="14561996707246089000" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/ai-grok-artificial-intelligence-computer-tech-gif-14561996707246089000">Ai Grok Sticker</a>from <a href="https://tenor.com/search/ai-stickers">Ai Stickers</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 </p>
 
 ---
