@@ -53,12 +53,13 @@
 <br />
 
 <!-- Shields Badges -->
-<p align="center">
-  <img src="https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white" alt="Windows Terminal" />
-  <img src="https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash Script" />
-  <img src="https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white" alt="PowerShell" />
-  <img src="https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" />
-</p>
+<div align="center">
+  <img src="https://cdn.simpleicons.org/windows/4D4D4D" height="50" alt="Windows Terminal" />
+  <img src="https://cdn.simpleicons.org/gnubash/121011" height="50" alt="Bash Script" />
+  <img src="https://cdn.simpleicons.org/powershell/5391FE" height="50" alt="PowerShell" />
+  <img src="https://cdn.simpleicons.org/githubactions/2671E5" height="50" alt="GitHub Actions" />
+</div>
+
 
 ### 📫 Let's Connect
 
