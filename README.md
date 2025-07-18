@@ -74,7 +74,6 @@
 <!--[nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white) 
 <!--[Plex](https://img.shields.io/badge/plex-%23E5A00D.svg?style=for-the-badge&logo=plex&logoColor=white)
 -->
-</div>
 
 ### 📫 Let's Connect
 
