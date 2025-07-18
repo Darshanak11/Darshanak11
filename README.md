@@ -60,7 +60,6 @@
 <br />
 <div align="center">
   <img src="https://skillicons.dev/icons?i=windows" height="50" alt="Windows Terminal" />
-  <img src="https://skillicons.dev/icons?i=gnubash" height="50" alt="Bash" />
   <img src="https://skillicons.dev/icons?i=powershell" height="50" alt="PowerShell" />
   <img src="https://skillicons.dev/icons?i=githubactions" height="50" alt="GitHub Actions" />
 </div>
