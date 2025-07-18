@@ -12,7 +12,7 @@
 
 ### 🚀 Tech Stack
 
-<p align="left">
+<p align="right">
   <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="200" />
 </p>
 <!-- Programming Languages & Tools Badges -->
