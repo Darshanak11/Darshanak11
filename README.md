@@ -37,6 +37,8 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=vscode" height="49" alt="VS Code logo" />
   <img width="12" />
+  <img src="https://img.icons8.com/color/48/visual-studio.png" height="50" alt="VS Code Purple" />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="49" alt="Canva logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="49" alt="Git logo" />
