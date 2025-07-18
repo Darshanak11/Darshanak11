@@ -59,23 +59,11 @@
 
 <br />
 <div align="center">
-
-### 🔧 Tools & Technologies
-
-<img src="https://skillicons.dev/icons?i=bash" height="40" alt="Bash Logo" />
-<img src="https://skillicons.dev/icons?i=eclipse" height="40" alt="Eclipse IDE Logo" />
-
-<br /><br />
-
-<img src="https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white" />
-<img src="https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" />
-<img src="https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white" />
-<img src="https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white" />
-
+  <img src="https://skillicons.dev/icons?i=windows" height="50" alt="Windows Terminal" />
+  <img src="https://skillicons.dev/icons?i=gnubash" height="50" alt="Bash" />
+  <img src="https://skillicons.dev/icons?i=powershell" height="50" alt="PowerShell" />
+  <img src="https://skillicons.dev/icons?i=githubactions" height="50" alt="GitHub Actions" />
 </div>
-
-
-
 
 ### 📫 Let's Connect
 
