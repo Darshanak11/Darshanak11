@@ -12,8 +12,8 @@
 
 ### 🚀 Tech Stack
 
-<p align="center">
-  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="100" />
+<p align="left">
+  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="200" />
 </p>
 <!-- Programming Languages & Tools Badges -->
 <div align="center">
