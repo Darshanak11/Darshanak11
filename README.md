@@ -7,9 +7,9 @@
 - 🌱 I’m learning **C#, Java, JavaScript, and Web Development**  
 - 💬 Ask me about **HTML, CSS, JavaScript, Python, Java, and C#**  
 - ⚡ Fun fact: I enjoy designing UIs that look and feel real!
-  <p align="right">
+ <div style="position: absolute; top: 100px; right: 10000px;">
   <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="200" />
-</p>
+</div>
 
 ---
 
@@ -61,6 +61,9 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/powershell/powershell-original.svg" height="50" alt="PowerShell" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" height="50" alt="GitHub Actions" />
 </div>
+
+
+---
 
 ### 📫 Let's Connect
 
