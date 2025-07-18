@@ -7,7 +7,7 @@
 - 🌱 I’m learning **C#, Java, JavaScript, and Web Development**  
 - 💬 Ask me about **HTML, CSS, JavaScript, Python, Java, and C#**  
 - ⚡ Fun fact: I enjoy designing UIs that look and feel real!
- <div aling:right">
+ <div aling="right">
   <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="200" />
 </div>
 
