@@ -28,21 +28,10 @@
 ### 📫 Let's Connect
 
 <p align="center">
-  <a href="https://linkedin.com/in/your-linkedin" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" />
-  </a>
-  <a href="mailto:your_email@example.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge" />
-  </a>
-  <a href="https://instagram.com/your_instagram" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge" />
-  </a>
-</p>
+  <img width="12" /> -->
+  <a href="https://www.linkedin.com/in/Darshana-k-687775349">
+  <img src="https://skillicons.dev/icons?i=linkedin" height="49" alt="linkedin logo" ></a>
+ 
 
 ---
 
-### ✨ Fun Zone
-
-<p align="center">
-  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="300" />
-</p>
