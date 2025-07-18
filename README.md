@@ -1,15 +1,19 @@
 <h1 align="center">Hi 👋, I'm Darshana K</h1>
-<h3 align="center">🚀 Aspiring Cloud Engineer | Passionate Coder | Tech Explorer</h3>
+<h3 align="center">🚀 Aspiring Cloud Engineer</h3>
 
 ---
+<div align="left">
 
-### 🌟 About Me
-- 🌱 I’m learning **C#, Java, JavaScript, and Web Development**  
-- 💬 Ask me about **HTML, CSS, JavaScript, Python, Java, and C#**  
-- ⚡ Fun fact: I enjoy designing UIs that look and feel real!
- <div aling="right">
   <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="200" />
 </div>
+
+### 🌟 About Me
+
+- 🌱 I’m learning **C#, Java, JavaScript, and Web Development**  
+
+- 💬 Ask me about **HTML, CSS, JavaScript, Python, Java, and C#**
+    
+- ⚡ Fun fact: I enjoy designing UIs that look and feel real!
 
 ---
 
@@ -30,10 +34,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="49" alt="CSS3 logo" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=gcp" height="49" alt="Google Cloud logo" />
-  <img width="12" />
-  <a href="https://www.linkedin.com/in/Darshana-k-687775349" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="49" alt="LinkedIn logo" />
-  </a>
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=vscode" height="49" alt="VS Code logo" />
   <img width="12" />
