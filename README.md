@@ -54,12 +54,11 @@
 
 <!-- Shields Badges -->
 <div align="center">
-  <img src="https://cdn.simpleicons.org/windows/4D4D4D" height="50" alt="Windows Terminal" />
-  <img src="https://cdn.simpleicons.org/gnubash/121011" height="50" alt="Bash Script" />
-  <img src="https://cdn.simpleicons.org/powershell/5391FE" height="50" alt="PowerShell" />
-  <img src="https://cdn.simpleicons.org/githubactions/2671E5" height="50" alt="GitHub Actions" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" height="50" alt="Windows Terminal" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" height="50" alt="Bash" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/powershell/powershell-original.svg" height="50" alt="PowerShell" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" height="50" alt="GitHub Actions" />
 </div>
-
 
 ### 📫 Let's Connect
 
