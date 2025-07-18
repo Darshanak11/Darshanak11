@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Darshana K</h1>
-<h3 align="center">🚀 Aspiring Developer | Passionate Coder | Tech Explorer</h3>
+<h3 align="center">🚀 Aspiring Cloud Engineer | Passionate Coder | Tech Explorer</h3>
 
 ---
 
