@@ -3,23 +3,19 @@
 
 ---
 <div align="left">
-
   <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="200" />
 </div>
 
 ### 🌟 About Me
 
 - 🌱 I’m learning **C#, Java, JavaScript, and Web Development**  
-
-- 💬 Ask me about **HTML, CSS, JavaScript, Python, Java, and C#**
-    
+- 💬 Ask me about **HTML, CSS, JavaScript, Python, Java, and C#**  
 - ⚡ Fun fact: I enjoy designing UIs that look and feel real!
 
 ---
 
 ### 🚀 Tech Stack
 
-<!-- Programming Languages & Tools Badges -->
 <div align="center">
 
   <!-- Top Row Icons -->
@@ -42,10 +38,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="49" alt="Canva logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="49" alt="Git logo" />
-
 </div>
 
-<!-- Second Row Icons -->
 <div align="center" style="margin-top: 10px;">
   <img src="https://skillicons.dev/icons?i=github" height="40" alt="GitHub logo" />
   <img width="12" />
@@ -54,7 +48,6 @@
 
 <br />
 
-<!-- Shields Badges -->
 <div align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" height="50" alt="Windows Terminal" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" height="50" alt="Bash" />
@@ -62,17 +55,28 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" height="50" alt="GitHub Actions" />
 </div>
 
+---
+
+### 🏓 Play My Mini-Game: Pong  
+
+<p align="center">
+  <a href="https://darshanak11.github.io/pong-game/" target="_blank">
+    <img src="https://github.com/darshanak11/pong-game/blob/main/preview.gif" width="250" alt="Pong Game Preview"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://darshanak11.github.io/pong-game/" target="_blank">
+    🕹️ Click here to play my Pong game!
+  </a>
+</p>
 
 ---
 
 ### 📫 Let's Connect
 
 <p align="center">
-  <img width="12" /> 
   <a href="https://www.linkedin.com/in/Darshana-k-687775349">
-  <img src="https://skillicons.dev/icons?i=linkedin" height="49" alt="linkedin logo" ></a>
-  
- 
-
----
-
+    <img src="https://skillicons.dev/icons?i=linkedin" height="49" alt="LinkedIn logo" />
+  </a>
+</p>
