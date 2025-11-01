@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Darshana K</h1> <h3 align="center">🚀 Aspiring Cloud Engineer</h3>
 <div align="left"> <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="200" /> </div>
 🌟 About Me
+
 🌱 Currently learning C#, Java, JavaScript, and Web Development
 
 💬 Ask me about HTML, CSS, JavaScript, Python, Java, and C#
