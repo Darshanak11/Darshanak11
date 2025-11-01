@@ -57,21 +57,7 @@
 
 ---
 
-### 🏓 Play My Mini-Game: Pong  
 
-<p align="center">
-  <a href="https://darshanak11.github.io/pong-game/" target="_blank">
-    <img src="https://github.com/darshanak11/pong-game/blob/main/preview.gif" width="250" alt="Pong Game Preview"/>
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://darshanak11.github.io/pong-game/" target="_blank">
-    🕹️ Click here to play my Pong game!
-  </a>
-</p>
-
----
 
 ### 📫 Let's Connect
 
