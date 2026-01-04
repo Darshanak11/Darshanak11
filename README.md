@@ -41,6 +41,15 @@
   <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/java.svg" />
   <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/sqlite.svg" />
 
+## 🛠 Tech stack
+
+<div align="center">
+  <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/html5.svg" />
+  <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/csharp.svg" />
+  <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/python.svg" />
+  <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/java.svg" />
+  <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/sqlite.svg" />
+
 ### Databases
 <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/mysql.svg" />
 
