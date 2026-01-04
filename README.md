@@ -21,25 +21,13 @@
   <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="200" />
 </div>
 
-- 🎓 CS undergraduate from India, focused on **cloud computing**, **DBMS**, and **DSA**
+- 🎓 BCA student from India, focused on **cloud computing**, **DBMS**, and **DSA**
 - 🌱 Currently learning: AWS basics, advanced SQL, and data structures
 - ⚙️ Enjoy building: small web apps, REST APIs, and database‑driven projects
 - 💬 Ask me about: C#, Python, SQL, Git, and GitHub
 - 📧 Reach me: [darshanak884@gmail.com](mailto:your.email@example.com)
 
 ---
-
-## 🛠 Tech stack
-
-### Languages
-## 🛠 Tech stack
-
-<div align="center">
-  <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/html5.svg" />
-  <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/csharp.svg" />
-  <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/python.svg" />
-  <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/java.svg" />
-  <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/sqlite.svg" />
 
 ## 🛠 Tech stack
 
@@ -62,7 +50,7 @@
   <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/git.svg" />
   <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/github.svg" />
   <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/visualstudiocode.svg" />
-  
+</div>
 ---
 
 ## 🚀 Featured projects
