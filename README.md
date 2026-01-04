@@ -25,7 +25,7 @@
 - 🌱 Currently learning: AWS basics, advanced SQL, and data structures
 - ⚙️ Enjoy building: small web apps, REST APIs, and database‑driven projects
 - 💬 Ask me about: C#, Python, SQL, Git, and GitHub
-- 📧 Reach me: [your.email@example.com](mailto:your.email@example.com)
+- 📧 Reach me: [](mailto:your.email@example.com)
 
 ---
 
