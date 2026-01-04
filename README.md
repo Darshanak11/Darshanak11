@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:06B6D4&height=220&section=header&text=Hi%20there,%20I'm%20Darshan%20👋&fontSize=32&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:06B6D4&height=220&section=header&text=Hi%20there,%20I'm%20Darshana%20👋&fontSize=32&fontColor=ffffff" />
 </p>
 
 <h3 align="center">💻 BCA | Cloud  | India</h3>
