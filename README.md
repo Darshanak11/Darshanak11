@@ -46,10 +46,6 @@
 
 <p align="center">
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=darshanak11&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" />
-  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=darshanak11&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
   <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=darshanak11&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" />
 </p>
 
