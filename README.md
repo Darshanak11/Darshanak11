@@ -13,8 +13,6 @@
 
 ## 👨‍🎓 About me
 
-<div align="left">
-  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="200" />
 </div>
 
 - 🎓 BCA student from India, focused on **cloud computing**, **DBMS**, and **DSA**
@@ -40,15 +38,6 @@
   <img src="https://skillicons.dev/icons?i=windows,bash,powershell" height="48"/>
 
 </div>
-
-
-## 📊 GitHub stats
-
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=darshanak11&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=darshanak11&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" />
-</p>
-
 ---
 
 ## 🤝 Connect with me
