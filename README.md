@@ -38,7 +38,6 @@
   <img src="https://skillicons.dev/icons?i=windows,bash,powershell" height="48"/>
 
 </div>
----
 
 ## 🤝 Connect with me
 
