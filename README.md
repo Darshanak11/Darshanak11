@@ -11,7 +11,7 @@
 
 ---
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="divider"/>
+<img src="divider.svg" width="100%" height="10" alt="divider"/>
 
 ## About Me
 
@@ -19,7 +19,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&color=A855F7&center=true&vCenter=true&width=700&lines=BCA+student+focused+on+cloud+computing%2C+DBMS+and+DSA;Currently+learning+AWS+basics%2C+advanced+SQL+and+data+structures;I+enjoy+building+small+web+apps%2C+REST+APIs+and+database+projects;Ask+me+about+C%23%2C+Python%2C+SQL%2C+Git+and+GitHub" alt="About me typing animation"/>
 </p>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="divider"/>
+<img src="divider.svg" width="100%" height="10" alt="divider"/>
 
 ---
 
@@ -39,7 +39,7 @@
 
 </div>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="divider"/>
+<img src="divider.svg" width="100%" height="10" alt="divider"/>
 
 ## 🤝 Connect with me
 
