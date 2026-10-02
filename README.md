@@ -11,15 +11,15 @@
 
 ---
 
-## 👨‍🎓 About me
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="divider"/>
 
-</div>
+## About Me
 
-- 🎓 BCA student from India, focused on **cloud computing**, **DBMS**, and **DSA**
-- 🌱 Currently learning: AWS basics, advanced SQL, and data structures
-- ⚙️ Enjoy building: small web apps, REST APIs, and database‑driven projects
-- 💬 Ask me about: C#, Python, SQL, Git, and GitHub
-- 📧 Reach me: [darshanak884@gmail.com](mailto:your.email@example.com)
+<p>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&color=A855F7&center=true&vCenter=true&width=700&lines=BCA+student+focused+on+cloud+computing%2C+DBMS+and+DSA;Currently+learning+AWS+basics%2C+advanced+SQL+and+data+structures;I+enjoy+building+small+web+apps%2C+REST+APIs+and+database+projects;Ask+me+about+C%23%2C+Python%2C+SQL%2C+Git+and+GitHub" alt="About me typing animation"/>
+</p>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="divider"/>
 
 ---
 
@@ -38,6 +38,8 @@
   <img src="https://skillicons.dev/icons?i=windows,bash,powershell" height="48"/>
 
 </div>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="divider"/>
 
 ## 🤝 Connect with me
 
