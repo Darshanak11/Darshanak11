@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="50" viewBox="0 0 800 50">
+  <rect width="800" height="50" rx="8" fill="#0d1117"/>
+  <text y="31" font-family="Segoe UI, Arial, sans-serif" font-size="18" fill="#a855f7">
+    🎓 BCA student • ☁️ Cloud computing • 🗄️ DBMS • 🌱 Learning AWS, SQL &amp; DSA • ⚙️ Web apps &amp; REST APIs • 💬 C#, Python, SQL, Git
+    <animateTransform attributeName="transform" type="translate" from="800 0" to="-1100 0" dur="18s" repeatCount="indefinite"/>
+  </text>
+</svg>
