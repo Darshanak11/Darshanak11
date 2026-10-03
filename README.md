@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:000000,50:1e40af,100:3b82f6&text=Darshana%20K&fontColor=ffffff&fontSize=60&fontAlignY=38&desc=BCA%20Student%20%7C%20Cloud%20Learner%20%7C%20India&descAlignY=60&descSize=20&animation=fadeIn" width="100%" alt="Banner"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=60A5FA&center=true&vCenter=true&width=700&lines=Hi+there%2C+I'm+Darshana+%F0%9F%91%8B;Learning+Cloud+%26+AWS;Exploring+SQL+%26+Data+Structures;Building+web+apps+and+REST+APIs" alt="Typing intro"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=60A5FA&center=true&vCenter=true&width=700&lines=Hi+there%2C+I'm+Darshana;Learning+Cloud+%26+AWS;Exploring+SQL+%26+Data+Structures;Building+web+apps+and+REST+APIs" alt="Typing intro"/>
 
 <br/><br/>
 
@@ -15,9 +15,9 @@
 
 <br/>
 
-
 <img src="divider.svg" width="100%" height="6" alt="divider"/>
-<h2 align="center">🛠️ Tech Stack</h2>
+
+<h2 align="center">Tech Stack</h2>
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=c,cpp,cs,python,html,css,mysql,dotnet,aws,gcp,git,github,vscode,visualstudio,eclipse,windows,bash,powershell&theme=dark&perline=9" alt="tech stack"/>
@@ -25,7 +25,7 @@
 
 <img src="divider.svg" width="100%" height="6" alt="divider"/>
 
-<h2 align="center">📈 Learning Progress</h2>
+<h2 align="center">Learning Progress</h2>
 
 <!-- Change the first number in each link to match your real progress -->
 <div align="center">
@@ -41,7 +41,7 @@
 PROJECTS: remove the arrows around this block once you have real repos,
 and replace YOUR-REPO-1 / YOUR-REPO-2 with their names.
 
-<h2 align="center"> Projects</h2>
+<h2 align="center">Projects</h2>
 <div align="center">
   <a href="https://github.com/Darshanak11/YOUR-REPO-1">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Darshanak11&repo=YOUR-REPO-1&theme=dark&hide_border=true&bg_color=0d1117&title_color=60a5fa&icon_color=3b82f6" alt="Project 1"/>
@@ -53,7 +53,7 @@ and replace YOUR-REPO-1 / YOUR-REPO-2 with their names.
 <img src="divider.svg" width="100%" height="6" alt="divider"/>
 -->
 
-<h2 align="center"> GitHub Stats</h2>
+<h2 align="center">GitHub Stats</h2>
 
 <div align="center">
   <img height="175" src="https://github-readme-stats.vercel.app/api?username=Darshanak11&show_icons=true&hide_border=true&bg_color=0d1117&title_color=60a5fa&icon_color=3b82f6&text_color=e5e7eb" alt="GitHub stats"/>
@@ -68,8 +68,6 @@ and replace YOUR-REPO-1 / YOUR-REPO-2 with their names.
 
 <img src="divider.svg" width="100%" height="6" alt="divider"/>
 
-<h2 align="center"> Pac-Man Contributions</h2>
-
 <div align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Darshanak11/Darshanak11/output/pacman-contribution-graph-dark.svg">
@@ -80,7 +78,7 @@ and replace YOUR-REPO-1 / YOUR-REPO-2 with their names.
 
 <img src="divider.svg" width="100%" height="6" alt="divider"/>
 
-<h2 align="center"> Connect With Me</h2>
+<h2 align="center">Connect With Me</h2>
 
 <div align="center">
   <a href="https://www.instagram.com/YOUR-INSTAGRAM"><img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=60a5fa"/></a>
@@ -91,7 +89,7 @@ and replace YOUR-REPO-1 / YOUR-REPO-2 with their names.
 <br/>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1500&color=60A5FA&center=true&vCenter=true&width=500&lines=Thanks+for+visiting+my+profile+%F0%9F%92%99;Let's+learn+and+build+together" alt="Thanks"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1500&color=60A5FA&center=true&vCenter=true&width=500&lines=Thanks+for+visiting+my+profile;Let's+learn+and+build+together" alt="Thanks"/>
   <br/><br/>
   <img src="https://komarev.com/ghpvc/?username=Darshanak11&style=for-the-badge&color=2563eb&labelColor=000000&label=PROFILE+VISITS" alt="Visitors"/>
 </div>
