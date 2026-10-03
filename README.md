@@ -20,7 +20,7 @@
 <h2 align="center">Tech Stack</h2>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,cs,python,html,css,mysql,dotnet,aws,gcp,git,github,vscode,visualstudio,eclipse,figma,windows,bash,powershell&theme=dark&perline=10" alt="tech stack"/>
+  <img src="https://skillicons.dev/icons?i=c,cpp,cs,python,js,java,html,css,mysql,dotnet,aws,gcp,git,github,vscode,visualstudio,eclipse,figma,windows,bash,powershell&theme=dark&perline=11" alt="tech stack"/>
 </div>
 
 <img src="divider.svg" width="100%" height="6" alt="divider"/>
