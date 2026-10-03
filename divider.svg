@@ -7,7 +7,29 @@
       <stop offset="75%" stop-color="#1d4ed8"/>
       <stop offset="100%" stop-color="#2563eb" stop-opacity="0"/>
     </linearGradient>
+    <linearGradient id="shine" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#93c5fd" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#bfdbfe"/>
+      <stop offset="100%" stop-color="#93c5fd" stop-opacity="0"/>
+    </linearGradient>
+    <clipPath id="line">
+      <rect x="0" y="1.5" width="800" height="3" rx="1.5"/>
+    </clipPath>
   </defs>
+
+  <!-- base line -->
   <rect x="0" y="1.5" width="800" height="3" rx="1.5" fill="url(#fade)"/>
-  <rect x="396" y="1" width="8" height="4" rx="1" fill="#2563eb" transform="rotate(45 400 3)"/>
+
+  <!-- sweeping light -->
+  <g clip-path="url(#line)">
+    <rect x="-200" y="1.5" width="200" height="3" fill="url(#shine)">
+      <animate attributeName="x" from="-200" to="800" dur="3s" repeatCount="indefinite"/>
+    </rect>
+  </g>
+
+  <!-- pulsing diamond -->
+  <rect x="396" y="1" width="8" height="4" rx="1" fill="#3b82f6" transform="rotate(45 400 3)">
+    <animate attributeName="opacity" values="1;0.35;1" dur="2s" repeatCount="indefinite"/>
+    <animate attributeName="fill" values="#2563eb;#93c5fd;#2563eb" dur="2s" repeatCount="indefinite"/>
+  </rect>
 </svg>
