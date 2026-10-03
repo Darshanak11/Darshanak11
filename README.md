@@ -13,65 +13,14 @@
 
 </div>
 
-<img src="divider.svg" width="100%" height="6" alt="divider"/>
-
-<h2 align="center"> About Me</h2>
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1500&color=3B82F6&center=true&vCenter=true&width=780&lines=BCA+student+focused+on+cloud+computing%2C+DBMS+and+DSA;Currently+learning+AWS+basics%2C+advanced+SQL+and+data+structures;I+enjoy+building+small+web+apps%2C+REST+APIs+and+database+projects" alt="About me typing"/>
-</div>
-
 <br/>
 
-<div align="center">
-<table>
-  <tr>
-    <td align="right"><b> Studying</b></td>
-    <td>Bachelor of Computer Application</td>
-  </tr>
-  <tr>
-    <td align="right"><b> Learning</b></td>
-    <td>AWS basics, advanced SQL, data structures</td>
-  </tr>
-  <tr>
-    <td align="right"><b> Building</b></td>
-    <td>Small web apps, REST APIs, database-driven projects</td>
-  </tr>
-  <tr>
-    <td align="right"><b> Ask me about</b></td>
-    <td>C#, Python, SQL, Git and GitHub</td>
-  </tr>
-  <tr>
-    <td align="right"><b> Reach me</b></td>
-    <td><a href="mailto:darshanak884@gmail.com">darshanak884@gmail.com</a></td>
-  </tr>
-</table>
-</div>
 
 <img src="divider.svg" width="100%" height="6" alt="divider"/>
-
 <h2 align="center">🛠️ Tech Stack</h2>
 
 <div align="center">
-
-**Languages & Databases**<br/>
-<img src="https://skillicons.dev/icons?i=c,cpp,cs,python,html,css,mysql&theme=dark" alt="languages"/>
-
-<br/>
-
-**Frameworks, Cloud & Dev**<br/>
-<img src="https://skillicons.dev/icons?i=dotnet,aws,gcp,git,github&theme=dark" alt="cloud"/>
-
-<br/>
-
-**Editors & Tools**<br/>
-<img src="https://skillicons.dev/icons?i=vscode,visualstudio,eclipse&theme=dark" alt="editors"/>
-
-<br/>
-
-**OS & Shell**<br/>
-<img src="https://skillicons.dev/icons?i=windows,bash,powershell&theme=dark" alt="os"/>
-
+  <img src="https://skillicons.dev/icons?i=c,cpp,cs,python,html,css,mysql,dotnet,aws,gcp,git,github,vscode,visualstudio,eclipse,windows,bash,powershell&theme=dark&perline=9" alt="tech stack"/>
 </div>
 
 <img src="divider.svg" width="100%" height="6" alt="divider"/>
