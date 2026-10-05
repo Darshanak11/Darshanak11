@@ -62,9 +62,7 @@ and replace YOUR-REPO-1 / YOUR-REPO-2 with their names.
 
 <br/>
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Darshanak11&theme=dark&hide_border=true&background=0d1117&ring=3b82f6&fire=60a5fa&currStreakLabel=e5e7eb&sideLabels=60a5fa&currStreakNum=e5e7eb&sideNums=e5e7eb&dates=9ca3af" alt="Streak"/>
-</div>
+
 
 <img src="divider.svg" width="100%" height="6" alt="divider"/>
 
